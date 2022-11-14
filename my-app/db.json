@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "sumsung8",
+      "category": "Sumsung",
+      "condition": "New",
+      "price": "1000",
+      "comment": "new",
+      "date": "2022-11-10T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "redmi",
+      "category": "Redmi",
+      "condition": "Second hand",
+      "price": "100",
+      "comment": "second ",
+      "date": "2022-11-01T19:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
